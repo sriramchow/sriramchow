@@ -18,8 +18,8 @@ I'm a Computer Science graduate student at the **University of North Texas** (M.
 #### 🚀 Recent Projects
 - **[Questor — Student Learning Management System](https://github.com/sriramchow/Student-Learning-Management-System)** 🌐 [Live Demo](https://sriram-lms.vercel.app) — Full-stack LMS with role-based dashboards, an AI-powered chatbot, and Firebase backend; deployed to Vercel. *(React, Firebase, Anthropic Claude API, Tailwind CSS)*
 - **[LeetCode Interview Helper](https://github.com/sriramchow/LeetCode-Interview-Helper)** — Information retrieval + ML system over 3,833 problems from 187 companies; BM25 ranking with a Random Forest classifier reaching 95.57% accuracy on the held-out test set. *(Python, Flask, React, scikit-learn)*
-- **[QUELIFE Animal Shelter Database](https://github.com/sriramchow/Animal-Shelter-Database)** — Relational database design in Oracle covering nine entities, full DDL, constraints, and 90+ records of sample data. *(Oracle, SQL)*
-- **[Global Climate Change Analysis](https://github.com/sriramchow/Global-Climate-Change-Tableau)** — Tableau dashboards analyzing 577K Berkeley Earth temperature records (2000–2015); compared land vs. ocean trends and identified top coldest regions. *(Tableau, Data Cleaning)*
+- **[QUELIFE Animal Shelter Database](https://github.com/sriramchow/QUELIFE-Animal-Shelter-Database)** — Relational database design in Oracle covering nine entities, full DDL, constraints, and 90+ records of sample data. *(Oracle, SQL)*
+- **[Global Climate Change Analysis](https://github.com/sriramchow/Global-Climate-Change-Analysis)** — Tableau dashboards analyzing 577K Berkeley Earth temperature records (2000–2015); compared land vs. ocean trends and identified top coldest regions. *(Tableau, Data Cleaning)*
 
 #### 📫 Reach me
 - **LinkedIn:** [linkedin.com/in/sriram-chowdary-a53a4b325](https://www.linkedin.com/in/sriram-chowdary-a53a4b325/)
